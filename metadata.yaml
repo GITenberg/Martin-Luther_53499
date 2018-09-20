@@ -1,11 +1,16 @@
 _repo: Martin-Luther_53499
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53499-h/images/cover.jpg
 creator:
   author:
     agent_name: Koppenhaver, Carl E.
     gutenberg_agent_id: '47401'
     url: http://www.gutenberg.org/2009/agents/47401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53499#Martin-Luther
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2016-11-11'
 gutenberg_type: Text
